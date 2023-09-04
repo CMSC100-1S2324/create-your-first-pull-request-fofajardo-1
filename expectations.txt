@@ -1,13 +1,12 @@
 # Expectations for the CMSC 100 Course
 
 **Francis Dominic Fajardo:**
-Based on the course outline, we will learn and tackle each component
-of the web stack, starting from the front-end, the basics of
-HTML/CSS/JS, the back-end, which includes the database and related
-server software.
+Based on the course outline, we will learn and tackle each component of the
+web stack, starting from the front-end, the basics of HTML/CSS/JS, the
+back-end, which includes the database and related server software.
 
-With the help and guidance of our professor, I believe that we will
-be able to overcome the challenges we'll face, especially with the
-laboratory exercises. Since I have some prior experience with web
-development, I think it won't be overly-difficult to learn and
-understand the concepts that will be discussed throughout the semester.
+With the help and guidance of our professor, I believe that we will be able
+to overcome the challenges we'll face, especially with the lab exercises.
+Since I have some prior experience with web development, I think it won't
+be overly-difficult to learn and understand the concepts that will be
+discussed throughout the semester.
